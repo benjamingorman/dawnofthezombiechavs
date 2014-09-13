@@ -1,0 +1,26 @@
+#game {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+  border: 5px solid white;
+}
+
+.hiddencursor {
+	cursor: none;
+}
+
+body {
+  background-image: url('background.png');
+  font-family: 'Coda', cursive;
+  font-weight: 100;
+}
+
+h3 {
+  width: 1024px;
+  margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
